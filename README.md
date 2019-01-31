@@ -1,0 +1,2 @@
+# bootanimation
+CTOSP boot animation
